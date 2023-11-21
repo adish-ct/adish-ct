@@ -13,6 +13,7 @@
 
 - 💬 Ask me about **Django, Python, Html**
 
+- 📫 How to reach me **adishct.dev@gmail.com**
 - 📫 How to reach me **adishct@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
