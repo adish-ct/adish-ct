@@ -28,10 +28,11 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adish-ct&show_icons=true&locale=en&layout=compact" alt="adish-ct" /></p>
 
 <br>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adish-ct&show_icons=true&locale=en" alt="adish-ct" /></p>
-<p>
-  
-![Adish's Leetcode](https://leetcard.jacoblin.cool/adish_ct?ext=heatmap)</p>
+<p>✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) <br></p>
+<p> ![Adish's Leetcode](https://leetcard.jacoblin.cool/adish_ct?ext=heatmap)</p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adish-ct" alt="adish-ct" /></a> </p>
 
 
