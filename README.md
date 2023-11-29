@@ -7,14 +7,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adish-ct&label=Profile%20views&color=0e75b6&style=flat" alt="adish-ct" /> </p>
 
-
-
-- 🌱 I’m currently learning **React**
-
-- 💬 Ask me about **Django, Python, Html**
-
-- 📫 How to reach me **adishct.dev@gmail.com**
-- 📫 How to reach me **adishct@outlook.com**
+🔭 I’m currently working on Django + React<br><br>
+🌱 I’m currently learning **React** <br><br>
+💬 Ask me about **Django, Python, Html, React, SQL** <br><br>
+⚡ Fun fact  I thrive on multitasking!<br><br>
+📫 How to reach me **adishct.dev@gmail.com** <br><br>
+📫 How to reach me **adishct@outlook.com** <br><br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
