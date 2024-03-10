@@ -32,11 +32,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adish-ct&&show_icons=true&title_color=bb2acf&text_color=daf7dc&bg_color=191919" alt="adish-ct" /></p>
 
 
-<p align="right"> 
-  
-  ![Adish's Leetcode](https://leetcard.jacoblin.cool/adish_ct?ext=heatmap)
- 
-</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adish-ct" alt="adish-ct" /></a> </p>
 
