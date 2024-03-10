@@ -19,7 +19,6 @@
 <a href="https://linkedin.com/in/adish-ct-796214217" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adish-ct-796214217" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/users/21766881/adish-ct" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="users/21766881/adish-ct" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ceetey1997" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ceetey1997" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/adish_ct" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leetcode.svg" alt="ceetey1997" height="30" width="40" /></a>
 
 </p>
 
